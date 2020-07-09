@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bit-people/static/css/main.f9c186e2.chunk.css",
+    "main.js": "/bit-people/static/js/main.21bce1c3.chunk.js",
+    "main.js.map": "/bit-people/static/js/main.21bce1c3.chunk.js.map",
+    "runtime-main.js": "/bit-people/static/js/runtime-main.500e00d3.js",
+    "runtime-main.js.map": "/bit-people/static/js/runtime-main.500e00d3.js.map",
+    "static/js/2.29d51848.chunk.js": "/bit-people/static/js/2.29d51848.chunk.js",
+    "static/js/2.29d51848.chunk.js.map": "/bit-people/static/js/2.29d51848.chunk.js.map",
+    "index.html": "/bit-people/index.html",
+    "precache-manifest.5f629ca0c5678013dd01dec2feeaffbf.js": "/bit-people/precache-manifest.5f629ca0c5678013dd01dec2feeaffbf.js",
+    "service-worker.js": "/bit-people/service-worker.js",
+    "static/css/main.f9c186e2.chunk.css.map": "/bit-people/static/css/main.f9c186e2.chunk.css.map",
+    "static/js/2.29d51848.chunk.js.LICENSE.txt": "/bit-people/static/js/2.29d51848.chunk.js.LICENSE.txt",
+    "static/media/not-found.png": "/bit-people/static/media/not-found.6cfcc6be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.500e00d3.js",
+    "static/js/2.29d51848.chunk.js",
+    "static/css/main.f9c186e2.chunk.css",
+    "static/js/main.21bce1c3.chunk.js"
+  ]
+}
