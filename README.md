@@ -12,7 +12,7 @@ Each list and grid item displays:
 
 Preview: <a href='https://milosm991.github.io/bit-people/'>BitPeople</a>
 
-### Stack
+## Stack
 
 - Language: HTML5, CSS3, JS(ES6+)
 - Library: React
